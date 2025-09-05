@@ -6,7 +6,7 @@ Setup & Installation
 Set up environment variables
 Created .env. file in the root directory:
 
- GEMINI_API_KEY=AIzaSyBWSiAnR5VmF2y3QoluUR2FvjZYw12rPgg
+ GEMINI_API_KEY=
 
 Deploy on Vercel
 
