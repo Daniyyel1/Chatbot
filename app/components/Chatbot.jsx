@@ -16,6 +16,7 @@ const Chatbot = () => {
       id: crypto.randomUUID(),
       role: "assistant",
       content: "Hello! i am Bobo AI! what can i help you with today?",
+      sender:'robot',
       chatTime: Date.now(),
     },
   ]);
